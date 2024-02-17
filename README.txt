@@ -1,4 +1,5 @@
 基本ルール
+可能な場合は、自分の使いやすい構造を編み出すのが吉。
 
 https://miro.com/app/board/uXjVNrnkNWI=/?share_link_id=370373754488
 
