@@ -11,7 +11,11 @@ _C4Dないでプロジェクトを跨いで使うものは、_C4Dフォルダの
 各フォルダには_ARCHIVESを必要であれば作り、そこに古いファイルを移動する。このtemplateでは、ルートにしか_ARCHIVESは作っていないが、必要であれば各フォルダに作ること。
 
 ファイル名は
-[prefix]_[projecteName]_[date(yymmdd)]_[version].[dataType]
+[prefix]_[projecteName]_[option]_[date(yymmdd)]_[version].[dataType]
+ex.projectFolderTemplate2024_240217_1.ai // .aiはprefixなし
+ex.c4d_projectFolderTemplate2024_logoMotion_240217_1.c4d
 
 子フォルダー名は
 [date(yymmdd)]_[projecteName]_[version]
+ex.240217_svg_1
+
