@@ -2,7 +2,7 @@
 
 https://miro.com/app/board/uXjVNrnkNWI=/?share_link_id=370373754488
 
-文字列はキャメルケースで記述する
+文字列は基本キャメルケースで記述する
 
 ムービー制作で.ai以外のファイルを扱う場合は、それ用のフォルダーを作る。ex._MOV,_PHOTO,_SOUND,_C4D、AllCapsで記述する。
 
